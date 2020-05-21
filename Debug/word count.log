@@ -1,0 +1,4 @@
+﻿G:\vs本身文件保存处\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(word count.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+G:\程序debug\word count\源.cpp(30,8): warning C4101: “data”: 未引用的局部变量
+  word count.vcxproj -> G:\程序debug\word count\Debug\wordcount.exe
